@@ -5,5 +5,3 @@ configargparse
 tensorboard>=2.0
 tqdm
 numpy
-tensorflow-gpu==1.15
-imagemagick
